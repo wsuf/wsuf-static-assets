@@ -4,7 +4,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyPlugin = require('copy-webpack-plugin');
 
 module.exports = merge(common, {
-  mode: 'stage',
+  mode: 'production',
   plugins: [
     new HtmlWebpackPlugin({
       template: './index.html',
