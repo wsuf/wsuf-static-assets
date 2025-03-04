@@ -1,6 +1,6 @@
 {
-  "short_name": "",
-  "name": "",
+  "short_name": "static-assets",
+  "name": "WSUF Static Web Assets",
   "icons": [{
     "src": "icon.png",
     "type": "image/png",
